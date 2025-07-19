@@ -32,7 +32,7 @@ def index():
         </style>
     </head>
     <body>
-        <h1>I Love You</h1>
+        <h1>HATİCE SENİ SEVİYORUMM</h1>
         <canvas id="heartCanvas" width="600" height="600"></canvas>
         <script>
             const canvas = document.getElementById("heartCanvas");
